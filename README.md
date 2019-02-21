@@ -2,7 +2,6 @@
 Here is a collection of action proposal related papers, inspired by [Awesome-ReID](https://github.com/KaiyangZhou/deep-person-reid/blob/master/AWESOME_REID.md) and [Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution). You are welcome to submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) if you find anything missing.
 
 # Temporal Action Proposals
-- [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf) - Rohit Cirdhar et al., arXiv 2018.
 - [Multi-granularity Generator for Temporal Action Proposal](https://arxiv.org/pdf/1811.11524.pdf) - Yuan Liu et al., arXiv 2018
 - [BSN: Boundary Sensitive Network for Temporal Action Proposal Generation](https://github.com/wzmsltw/BSN-boundary-sensitive-network) -  Tianwei Lin et al., ECCV 2018. [[code]](https://github.com/wzmsltw/BSN-boundary-sensitive-network)
 - [CTAP: Complementary Temporal Action Proposal Generation](https://arxiv.org/pdf/1807.04821.pdf) - Jiyang Gao and Kan Chen et al., ECCV 2018. [[code]](https://github.com/jiyanggao/CTAP)
@@ -20,5 +19,7 @@ Here is a collection of action proposal related papers, inspired by [Awesome-ReI
 - [Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs](https://arxiv.org/pdf/1601.02129.pdf) - Zheng Shou et al., CVPR 2016. [[code]](https://github.com/zhengshou/scnn/)
 
 # Spatial Temporal proposals
+- [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf) - Rohit Cirdhar et al., arXiv 2018.
+- [Long-Term Feature Banks for Detailed Video Understanding](Long-Term Feature Banks for Detailed Video Understanding) - Chao-Yuan Wu et al., arXiv2018.
 - [A Proposal-Based Solution to Spatio-Temporal Action Detection in Untrimmed Videos](https://arxiv.org/pdf/1811.08496.pdf) - Joshua Gleason, Rajeev Ranjan and Steven Schwarcz et al., WACV 2018.
 - [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf) - Katerina Fragkiadaki et al., CVPR 2015. [[code]](https://www.cs.cmu.edu/~katef/code/STMOP.zip) [[projcet]](https://www.cs.cmu.edu/~katef/videolearn.html)
