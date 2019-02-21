@@ -20,6 +20,6 @@ Here is a collection of action proposal related papers, inspired by [Awesome-ReI
 
 # Spatial Temporal proposals
 - [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf) - Rohit Cirdhar et al., arXiv 2018.
-- [Long-Term Feature Banks for Detailed Video Understanding](Long-Term Feature Banks for Detailed Video Understanding) - Chao-Yuan Wu et al., arXiv2018.
+- [Long-Term Feature Banks for Detailed Video Understanding](https://arxiv.org/pdf/1812.05038.pdf) - Chao-Yuan Wu et al., arXiv2018.
 - [A Proposal-Based Solution to Spatio-Temporal Action Detection in Untrimmed Videos](https://arxiv.org/pdf/1811.08496.pdf) - Joshua Gleason, Rajeev Ranjan and Steven Schwarcz et al., WACV 2018.
 - [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf) - Katerina Fragkiadaki et al., CVPR 2015. [[code]](https://www.cs.cmu.edu/~katef/code/STMOP.zip) [[projcet]](https://www.cs.cmu.edu/~katef/videolearn.html)
