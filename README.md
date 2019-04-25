@@ -1,5 +1,5 @@
 # Awesome-Action-Proposal
-Here is a collection of action proposal related papers, inspired by [Awesome-ReID](https://github.com/KaiyangZhou/deep-person-reid/blob/master/AWESOME_REID.md) and [Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution). You are welcome to submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) if you find anything missing.
+Here is a collection of action proposal related papers, inspired by [Awesome-ReID](https://kaiyangzhou.github.io/deep-person-reid/AWESOME_REID.html) and [Single-Image-Super-Resolution](https://github.com/YapengTian/Single-Image-Super-Resolution). You are welcome to submit a [pull request](https://help.github.com/articles/creating-a-pull-request/) if you find anything missing.
 
 # Temporal Action Proposals
 - [Multi-granularity Generator for Temporal Action Proposal](https://arxiv.org/pdf/1811.11524.pdf) - Yuan Liu et al., arXiv 2018
