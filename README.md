@@ -19,10 +19,10 @@ Here is a collection of action proposal related papers, inspired by [Awesome-ReI
 - [Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs](https://arxiv.org/pdf/1601.02129.pdf) - Zheng Shou et al., CVPR 2016. [[code]](https://github.com/zhengshou/scnn/)
 
 # Spatial Temporal proposals
-- [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf) - Rohit Cirdhar et al., CVPR 2019.
-- [Long-Term Feature Banks for Detailed Video Understanding](https://arxiv.org/pdf/1812.05038.pdf) - Chao-Yuan Wu et al., CVPR 2019.
+- [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf) - Rohit Cirdhar et al., CVPR 2019. [[project]](https://rohitgirdhar.github.io/ActionTransformer/)
+- [Long-Term Feature Banks for Detailed Video Understanding](https://arxiv.org/pdf/1812.05038.pdf) - Chao-Yuan Wu et al., CVPR 2019.  [[code]](https://github.com/facebookresearch/video-long-term-feature-banks)
+- [A Proposal-Based Solution to Spatio-Temporal Action Detection in Untrimmed Videos](https://arxiv.org/pdf/1811.08496.pdf) - Joshua Gleason, Rajeev Ranjan and Steven Schwarcz et al., WACV 2019.
 - [Generic Tubelet Proposals for Action Localization](https://arxiv.org/pdf/1705.10861.pdf) - Jiawei He et al., WACV 2018.
-- [A Proposal-Based Solution to Spatio-Temporal Action Detection in Untrimmed Videos](https://arxiv.org/pdf/1811.08496.pdf) - Joshua Gleason, Rajeev Ranjan and Steven Schwarcz et al., WACV 2018.
 - [Learning to Segment Moving Objects in Videos](https://www.cs.cmu.edu/~katef/papers/CVPR2015_LearnVideoSegment.pdf) - Katerina Fragkiadaki et al., CVPR 2015. [[code]](https://www.cs.cmu.edu/~katef/code/STMOP.zip) [[projcet]](https://www.cs.cmu.edu/~katef/videolearn.html)
 - [Fast Action Proposals for Human Action Detection and Search](http://openaccess.thecvf.com/content_cvpr_2015/papers/Yu_Fast_Action_Proposals_2015_CVPR_paper.pdf) - Gang Yu et al., CVPR 2015.
 - [Spatio-temporal object detection proposals](https://link.springer.com/content/pdf/10.1007%2F978-3-319-10578-9_48.pdf) - Dan Oneata et al., ECCV 2014. [[code]](https://bitbucket.org/doneata/proposals/src/master/) [[project]](http://lear.inrialpes.fr/~oneata/3Dproposals/)
