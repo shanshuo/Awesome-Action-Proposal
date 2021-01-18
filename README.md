@@ -19,6 +19,7 @@ Here is a collection of action proposal related papers, inspired by [Awesome-ReI
 - [Temporal Action Localization in Untrimmed Videos via Multi-stage CNNs](https://arxiv.org/pdf/1601.02129.pdf) - Zheng Shou et al., CVPR 2016. [[code]](https://github.com/zhengshou/scnn/)
 
 # Spatial Temporal proposals
+- [Interactivity Proposals for Surveillance Videos](https://dl.acm.org/doi/10.1145/3372278.3390680) - Shuo Chen et al., ICMR 2020. [[code]](https://github.com/shanshuo/Interactivity_Proposals)
 - [Video Action Transformer Network](https://arxiv.org/pdf/1812.02707.pdf) - Rohit Cirdhar et al., CVPR 2019. [[project]](https://rohitgirdhar.github.io/ActionTransformer/)
 - [Long-Term Feature Banks for Detailed Video Understanding](https://arxiv.org/pdf/1812.05038.pdf) - Chao-Yuan Wu et al., CVPR 2019.  [[code]](https://github.com/facebookresearch/video-long-term-feature-banks)
 - [A Proposal-Based Solution to Spatio-Temporal Action Detection in Untrimmed Videos](https://arxiv.org/pdf/1811.08496.pdf) - Joshua Gleason, Rajeev Ranjan and Steven Schwarcz et al., WACV 2019.
